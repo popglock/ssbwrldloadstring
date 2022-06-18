@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/popglock/script/script.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/popglock/script/main/script?token=GHSAT0AAAAAABVXTB4AGEBDJN5CG7VXKDXOYVNIGOQ.lua", true))()
